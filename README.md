@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **NextJS, Prisma, Vercel**
 
-- 📫 How to reach me **ibrahims.kk@icloud.com**
-
 - ⚡ Fun fact **I like playing Chess on my freetime. If you want to chanllenge me you can find here. https://link.chess.com/friend/r9qHof**
 
 <h3 align="left">Connect with me:</h3>
